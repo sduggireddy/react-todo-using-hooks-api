@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a sample todo project created using React Hooks concept. I followed the following links to create this sample project.
+
+https://scotch.io/tutorials/build-a-react-to-do-app-with-react-hooks-no-class-components
+
+https://www.robinwieruch.de/react-hooks-fetch-data/
+
+https://dev.to/rodeghiero_/json-server-with-reactjs-3chd
+
 ## Available Scripts
 
 In the project directory, you can run:
